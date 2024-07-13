@@ -1,0 +1,14 @@
+public class I extends G {
+
+    private long k = 1234;
+
+    private long a = 1234;
+
+    public byte oo() {
+        return 4;
+    }
+
+    public Object rr() {
+        return null;
+    }
+}
